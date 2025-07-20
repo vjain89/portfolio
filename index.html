@@ -112,7 +112,7 @@
         projects.filter(p => p.visible).forEach(project => {
           const tile = document.createElement('a');
           tile.className = 'project';
-          tile.href = project.link;
+          tile.href = 'projects/' + project.link;
 
           const img = document.createElement('img');
           img.src = project.image;
