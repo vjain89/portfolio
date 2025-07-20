@@ -2,7 +2,7 @@
   {
     "title": "PHOTODETECTOR",
     "image": "images/photodetector.jpg",
-    "link": "photodetector.html",
+    "link": "photodetector/index.html",
     "visible": true,
     "size": [1, 1]
   },
