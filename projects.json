@@ -1,21 +1,51 @@
 [
-    {
-      "title": "PHOTODETECTOR",
-      "image": "images/photodetector.jpg",
-      "link": "photodetector.html",
-      "visible": true
-    },
-    {
-      "title": "ROBOTIC ARM",
-      "image": "images/robotic-arm.jpg",
-      "link": "robotic-arm.html",
-      "visible": true
-    },
-    {
-      "title": "HIDDEN PROJECT",
-      "image": "images/hidden.jpg",
-      "link": "hidden.html",
-      "visible": false
-    }
-  ]
-  
+  {
+    "title": "PHOTODETECTOR",
+    "image": "images/photodetector.jpg",
+    "link": "photodetector.html",
+    "visible": true,
+    "size": [1, 1]
+  },
+  {
+    "title": "BABYTALK-APP",
+    "image": "images/babytalk-app.jpg",
+    "link": "babytalk-app.html",
+    "visible": true,
+    "size": [1, 1]
+  },
+  {
+    "title": "H-BAR",
+    "image": "images/hbar.jpg",
+    "link": "hbar.html",
+    "visible": true,
+    "size": [1, 2]
+  },
+  {
+    "title": "LEVITATION",
+    "image": "images/levitation.jpg",
+    "link": "levitation.html",
+    "visible": true,
+    "size": [1, 1]
+  },
+  {
+    "title": "MULTIPLEXER",
+    "image": "images/multiplexer.jpg",
+    "link": "multiplexer.html",
+    "visible": true,
+    "size": [1, 1]
+  },
+  {
+    "title": "ROBOTIC-ARM",
+    "image": "images/robotic-arm.jpg",
+    "link": "robotic-arm.html",
+    "visible": true,
+    "size": [2, 1]
+  },
+  {
+    "title": "UNTITLED",
+    "image": "",
+    "link": "placeholder.html",
+    "visible": true,
+    "size": [1, 1]
+  }
+]
