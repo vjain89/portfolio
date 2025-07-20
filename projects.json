@@ -1,0 +1,21 @@
+[
+    {
+      "title": "SINGLE-BOARD COMPUTER",
+      "image": "images/single-board-computer.jpg",
+      "link": "single-board-computer.html",
+      "visible": true
+    },
+    {
+      "title": "ROBOTIC ARM",
+      "image": "images/robotic-arm.jpg",
+      "link": "robotic-arm.html",
+      "visible": true
+    },
+    {
+      "title": "HIDDEN PROJECT",
+      "image": "images/hidden.jpg",
+      "link": "hidden.html",
+      "visible": false
+    }
+  ]
+  
