@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hardware Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+      color: #000000;
+    }
+
+    header {
+      padding: 2rem;
+      text-align: left;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+
+    header h2 {
+      margin: 0;
+      font-weight: normal;
+      font-size: 1rem;
+      color: #666;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+      padding: 2rem;
+    }
+
+    .project {
+      text-align: center;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .project img {
+      width: 100%;
+      height: auto;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+
+    .project-title {
+      margin-top: 1rem;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>PORTFOLIO</h1>
+    <h2>Hardware Engineer</h2>
+  </header>
+
+  <main class="grid">
+    <a class="project" href="single-board-computer.html">
+      <img src="images/single-board-computer.jpg" alt="Single-board computer" />
+      <div class="project-title">SINGLE-BOARD COMPUTER</div>
+    </a>
+
+    <a class="project" href="robotic-arm.html">
+      <img src="images/robotic-arm.jpg" alt="Robotic Arm" />
+      <div class="project-title">ROBOTIC ARM</div>
+    </a>
+
+    <a class="project" href="pcb.html">
+      <img src="images/pcb.jpg" alt="Printed Circuit Board" />
+      <div class="project-title">PRINTED CIRCUIT BOARD</div>
+    </a>
+
+    <a class="project" href="wearable-device.html">
+      <img src="images/wearable-device.jpg" alt="Wearable Device" />
+      <div class="project-title">WEARABLE DEVICE</div>
+    </a>
+  </main>
+</body>
+</html>
