@@ -1,51 +1,26 @@
 [
   {
-    "title": "PHOTODETECTOR",
-    "image": "images/photodetector.jpg",
-    "link": "photodetector/index.html",
-    "visible": true,
-    "size": [1, 1]
+    "link": "photodetector.md",
+    "visible": true
   },
   {
-    "title": "BABYTALK-APP",
-    "image": "images/babytalk-app.jpg",
-    "link": "babytalk-app.html",
-    "visible": true,
-    "size": [1, 1]
+    "link": "babytalk-app.md",
+    "visible": true
   },
   {
-    "title": "H-BAR",
-    "image": "images/hbar.jpg",
-    "link": "hbar.html",
-    "visible": true,
-    "size": [1, 2]
+    "link": "hbar.md",
+    "visible": true
   },
   {
-    "title": "LEVITATION",
-    "image": "images/levitation.jpg",
-    "link": "levitation.html",
-    "visible": true,
-    "size": [1, 1]
+    "link": "levitation.md",
+    "visible": true
   },
   {
-    "title": "MULTIPLEXER",
-    "image": "images/multiplexer.jpg",
-    "link": "multiplexer.html",
-    "visible": true,
-    "size": [1, 1]
+    "link": "multiplexer.md",
+    "visible": true
   },
   {
-    "title": "ROBOTIC-ARM",
-    "image": "images/robotic-arm.jpg",
-    "link": "robotic-arm.html",
-    "visible": true,
-    "size": [2, 1]
-  },
-  {
-    "title": "UNTITLED",
-    "image": "",
-    "link": "placeholder.html",
-    "visible": true,
-    "size": [1, 1]
+    "link": "robotic-arm.md",
+    "visible": true
   }
 ]
